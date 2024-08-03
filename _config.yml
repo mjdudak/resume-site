@@ -1,15 +1,13 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Matthew Dudak
+url: "https://mjdudak.com"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+remote_theme: ankitsultana/researcher@gem
 
 sass:
     style: compressed
@@ -17,8 +15,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+   link: "index"
+ - name: "Projects"
+   link: "projects"
+
+
