@@ -11,5 +11,7 @@ layout: default
 - [Angular Acceleration/Torque Lab](https://mr-dudak-physics.trinket.io/sites/angular-acceleration-lab)
 - [Rotational Energy Races](https://mr-dudak-physics.trinket.io/sites/rotational-energy-races)
 
+## Other tools
+- [Experimental data generator](https://mjdudak.github.io/experimental-data-generator/)
 
 
