@@ -13,7 +13,7 @@ Hello! I am physics teacher in Wheaton, IL, who is passionate about improving my
 **M.S. Physics Teaching** - August 2024\
 *Northen Illinois University, DeKalb, IL.*
 
-**A.B. Physics,** - May 2018\
+**A.B. Physics** - May 2018\
 *Brown University, Providence, RI.*\
 Magna cum laude, honors, Phi Beta Kappa.
 
