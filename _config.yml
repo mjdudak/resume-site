@@ -5,10 +5,6 @@ baseurl: ""
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
-
-remote_theme: ankitsultana/researcher@gem
-
 sass:
     style: compressed
     sass_dir: _sass
