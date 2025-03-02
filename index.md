@@ -9,6 +9,8 @@ layout: default
 Hello! I am physics teacher in Wheaton, IL, who is passionate about improving my practice and education systems through research and inquiry.
 
 ## Education
+**Ph.D. STEM Curriculum and Instruction** - Current  student\
+*Texas Tech University, Lubbock, TX*
 
 **M.S. Physics Teaching** - August 2024\
 *Northen Illinois University, DeKalb, IL.*
